@@ -1,0 +1,16 @@
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    background-color: gray;
+    color: yellow;
+    height: 30px;
+    width: 150px;
+}
+.datos{
+    background-color: aliceblue;
+    height: 30px;
+    width: 150px;
+}
